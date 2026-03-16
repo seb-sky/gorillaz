@@ -1,6 +1,8 @@
 # DEPRECATED
 
-Gorillaz brings too many dependencies, messes with application flags. It serves Skysoft well, now it's time to go
+Gorillaz brings too many dependencies, messes with application flags. It serves Skysoft well, now it's time to go.
+
+A lighter version (with fewer features) is available at https://github.com/SkySoft-ATM/minigaz
 
 # gorillaz: a Go common library
 
